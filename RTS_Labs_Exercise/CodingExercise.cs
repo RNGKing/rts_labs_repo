@@ -6,7 +6,7 @@ using System.Text;
 
 namespace RTS_Labs_Exercise
 {
-    //    Please write a class in the language of your choice that contains the following two public methods:
+    //  Please write a class in the language of your choice that contains the following two public methods:
 
     //  aboveBelow
     //  accepts two arguments
